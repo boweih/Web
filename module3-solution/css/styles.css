@@ -1,0 +1,32 @@
+@media (min-width: 575px) {
+    .navbar .container button {
+        display: none;
+    }
+
+    #navbar-collapse {
+        display: none !important;
+    }
+}
+
+#navbar-collapse {
+    text-align: center;
+    font-size: 120%;
+}
+
+#nav-list li + .divider {
+    border-bottom: darkgrey solid 1px;
+}
+
+.section {
+    background-color: lightgray;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    padding: 10px;
+    height: 1000px;
+}
+
+h3 {
+    margin: 5px;
+}
