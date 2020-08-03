@@ -1,4 +1,4 @@
-@media (min-width: 575px) {
+@media (min-width: 768px) {
     .navbar .container button {
         display: none;
     }
